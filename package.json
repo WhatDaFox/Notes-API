@@ -1,0 +1,29 @@
+{
+  "name": "Notes-API",
+  "version": "1.0.0",
+  "description": "API Documentation example",
+  "main": "index.html",
+  "bin": { "aglio" : "./node_modules/aglio/bin/aglio.js" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WhatDaFox/Notes-API.git"
+  },
+  "keywords": [
+    "api",
+    "documentation",
+    "apiary",
+    "example"
+  ],
+  "author": "Valentin Prugnaud <valentin@whatdafox.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhatDaFox/Notes-API/issues"
+  },
+  "homepage": "https://github.com/WhatDaFox/Notes-API",
+  "dependencies": {
+    "aglio": "^1.17.1"
+  }
+}
